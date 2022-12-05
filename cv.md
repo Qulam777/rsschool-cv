@@ -12,9 +12,11 @@
 * Python
 * VS Code
 
+
 ## Education
 ###### University:  `Azerbaijan Architecture and Construction University`
 ###### Faculty: `Information Technology(english)`
+
 
 ## Language
 English(pre-intermediate) - B1
